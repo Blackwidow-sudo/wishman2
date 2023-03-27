@@ -1,4 +1,10 @@
 {
+	"bracketSameLine": true,
+	"svelteIndentScriptAndStyle": true,
+	"singleAttributePerLine": true,
+	"tabWidth": 2,
+	"svelteSortOrder": "scripts-options-markup-styles",
+	"semi": false,
 	"useTabs": true,
 	"singleQuote": true,
 	"trailingComma": "none",
