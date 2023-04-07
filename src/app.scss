@@ -1,2 +1,3 @@
-$semantic-root-element: "body>div";
-@import '@picocss/pico/scss/pico';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
